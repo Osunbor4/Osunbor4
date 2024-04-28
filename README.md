@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on this platform to learn and build a social bond with my fellow programmers
-- 📫 How to reach me osehojie26@gmail.com
+- 📫 How to reach me osunuyi2021@gmail.com
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: JavaScript is among the top best programming languages 
 
